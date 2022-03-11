@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Mini Star Wars Wiki
+
+This is an learning project to complete an assignment from a React course in my CS study.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
